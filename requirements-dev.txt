@@ -4,3 +4,6 @@ mypy==0.812
 pylint==2.7.2
 pytest==6.2.2
 parameterized==0.8.1
+setuptools==54.2.0
+pytest-asyncio==0.14.0
+telethon==1.21.1
